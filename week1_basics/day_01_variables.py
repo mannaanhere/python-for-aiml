@@ -1,7 +1,7 @@
 a=1;
 b=2;
 c=a+b;
-if c>2:
+if c<1:
     print("c is greater than 2")
 else:
     print("c is not greater than 2")
